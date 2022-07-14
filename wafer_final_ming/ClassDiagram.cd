@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>wafer_final_ming.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAABEIAAAAAAAACAAAiAAAgCAAAgAgAAAgAAAAABI=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CwaferfinalmingApp" Collapsed="true">
+    <Position X="19.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAIIAAAKgAAEAIABAAAAAAQAAAABAAAAIAA=</HashCode>
+      <FileName>wafer_final_ming.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CwaferfinalmingDoc" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAACAAAgAAgASggAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>wafer_final_mingDoc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CwaferfinalmingView" Collapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAABAAAAACABAgAAAgAAAAAAAAAgIAAAAAQE=</HashCode>
+      <FileName>wafer_final_mingView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDispalyView" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAADBAAgAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>CDispalyView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGET" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAEAABAgAAAAAIGBAggAAIAAQAAAAACAgEAAAAAAE=</HashCode>
+      <FileName>CGET.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clogindlg" Collapsed="true">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAARAAAAABBAADAAAAAAYgAAAEAAA=</HashCode>
+      <FileName>Clogindlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMOV" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAABAAgAAAACAImBAAgQAAAEAAAAAACAAEAAAAIgE=</HashCode>
+      <FileName>CMOV.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSelectView" Collapsed="true">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAGAAAgAAAAAAgCBAAAAAAAAAAgAA=</HashCode>
+      <FileName>CSelectView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSET" Collapsed="true">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BwAgAAAAAAQAACAIGBgAgAAAgAAAAKAAAIAgAAAAQAE=</HashCode>
+      <FileName>CSET.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CInfoFile" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAACAAAIAAIAAAAAAQAAAAEAAAAAAAAAIAIAAIAAA=</HashCode>
+      <FileName>InfoFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="common">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAhIAJCAAAEAAAAAEAAAAAQAAAAAAAAAAEAA=</HashCode>
+      <FileName>movrelate\common.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="robotcommon">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEAAhIAJCAAAAAQAAAAAEQAYQAQAACAAAAQAAA=</HashCode>
+      <FileName>movrelate\common.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clpcommon">
+    <Position X="9" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAgEAAhYAICAAAAAAAAAAAAAAAUQAAAAAQAAIQAI=</HashCode>
+      <FileName>movrelate\common.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="machinecloadport">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="machinecloadport::lp_act_data" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>movrelate\machinecloadport.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAABQSEKCABAEAADECAARBAABACEEI0CAAAAAAAIAA=</HashCode>
+      <FileName>movrelate\machinecloadport.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="machinecommon" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAQAAAAAAAAIAAAAAAAAAIAA=</HashCode>
+      <FileName>movrelate\machinecommon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="machinecrobot">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="machinecrobot::robot_act_data" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>movrelate\machinecrobot.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AGAAAAiUIgACAAxEAIoCITAFAEABEsoCAAAISDRAICQ=</HashCode>
+      <FileName>movrelate\machinecrobot.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WaferStatus" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAEAAAAAAAQAIQAAAIAAAAAAAIAAAIAIAAA=</HashCode>
+      <FileName>movrelate\WaferLogic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ONInitpos" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAACAAAAAEAAAAIAAAgAAAAAAAIAAAAA=</HashCode>
+      <FileName>movrelate\WaferLogic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ONcassage" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAIAAAAAIAAAAAIAAAAA=</HashCode>
+      <FileName>movrelate\WaferLogic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ONaligner" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAgAIAAAAA=</HashCode>
+      <FileName>movrelate\WaferLogic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ONtext" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>movrelate\WaferLogic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ONfinished" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>movrelate\WaferLogic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FSMworkflow" Collapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgGAAAQAEAAAAAAAAAAAAAAAAABBAAAAAIAAAABAQAA=</HashCode>
+      <FileName>movrelate\WaferLogic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wafer_Control" Collapsed="true">
+    <Position X="17.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgDmgAgQAALAAEgSCAIABKIAEgAFCCCUAIoggABAFAg=</HashCode>
+      <FileName>movrelate\Wafer_Control.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wafer_Cserial" Collapsed="true">
+    <Position X="19.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAgAAEAKQgSAAABAAIEAEAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>movrelate\Wafer_Cserial.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wafer_Csocket" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAASAoAICIAACAAAAAABFAgAAAAAAAgAAAA=</HashCode>
+      <FileName>movrelate\Wafer_Csocket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wafer_json" Collapsed="true">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAQQIAAAAQAAAAAAAgBAAAAAQAAAQAAAAAAA=</HashCode>
+      <FileName>movrelate\wafer_json.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wafer_Pgsql" Collapsed="true">
+    <Position X="15.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAQAAAAAAIAAQAAAQAAAAAQAAAAAAAAAAI=</HashCode>
+      <FileName>movrelate\Wafer_Pgsql.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wafer_Pgsql_Record" Collapsed="true">
+    <Position X="17.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAQAAAAgAQAAAACAAgAAAAAAAAAAAQAAAAAAgAQAI=</HashCode>
+      <FileName>movrelate\Wafer_Pgsql.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="msg" Collapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABACAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>InfoFile.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="usernode" Collapsed="true">
+    <Position X="14" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>movrelate\WaferLogic.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="estate" Collapsed="true">
+    <Position X="12.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>movrelate\WaferLogic.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

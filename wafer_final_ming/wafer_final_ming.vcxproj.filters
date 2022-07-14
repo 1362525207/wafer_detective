@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\源文档">
+      <UniqueIdentifier>{b1399548-43bb-4e35-95f7-3bad1ad4f00e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\源文档">
+      <UniqueIdentifier>{185301ca-d5cd-4f10-b6d8-2c9346f4c06a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\辅助功能">
+      <UniqueIdentifier>{9d141a06-2e37-4011-9953-d9efcc40eeb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\辅助功能">
+      <UniqueIdentifier>{20d6db12-02d3-4d93-b88d-b5bc2c4598ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\运动功能">
+      <UniqueIdentifier>{05604c2d-f0ca-4d97-847f-1d3a0ffd3e88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\运动功能">
+      <UniqueIdentifier>{5822c688-f896-4ce3-bd4a-d9870792149c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>头文件\源文档</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>头文件\源文档</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>头文件\源文档</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件\源文档</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件\源文档</Filter>
+    </ClInclude>
+    <ClInclude Include="wafer_final_ming.h">
+      <Filter>头文件\源文档</Filter>
+    </ClInclude>
+    <ClInclude Include="wafer_final_mingDoc.h">
+      <Filter>头文件\源文档</Filter>
+    </ClInclude>
+    <ClInclude Include="wafer_final_mingView.h">
+      <Filter>头文件\源文档</Filter>
+    </ClInclude>
+    <ClInclude Include="InfoFile.h">
+      <Filter>头文件\辅助功能</Filter>
+    </ClInclude>
+    <ClInclude Include="Clogindlg.h">
+      <Filter>头文件\辅助功能</Filter>
+    </ClInclude>
+    <ClInclude Include="CDispalyView.h">
+      <Filter>头文件\辅助功能</Filter>
+    </ClInclude>
+    <ClInclude Include="CSelectView.h">
+      <Filter>头文件\辅助功能</Filter>
+    </ClInclude>
+    <ClInclude Include="CSET.h">
+      <Filter>头文件\辅助功能</Filter>
+    </ClInclude>
+    <ClInclude Include="CGET.h">
+      <Filter>头文件\辅助功能</Filter>
+    </ClInclude>
+    <ClInclude Include="CMOV.h">
+      <Filter>头文件\辅助功能</Filter>
+    </ClInclude>
+    <ClInclude Include="movrelate\common.h">
+      <Filter>头文件\运动功能</Filter>
+    </ClInclude>
+    <ClInclude Include="movrelate\machinecloadport.h">
+      <Filter>头文件\运动功能</Filter>
+    </ClInclude>
+    <ClInclude Include="movrelate\machinecommon.h">
+      <Filter>头文件\运动功能</Filter>
+    </ClInclude>
+    <ClInclude Include="movrelate\machinecrobot.h">
+      <Filter>头文件\运动功能</Filter>
+    </ClInclude>
+    <ClInclude Include="movrelate\Wafer_Control.h">
+      <Filter>头文件\运动功能</Filter>
+    </ClInclude>
+    <ClInclude Include="movrelate\Wafer_Cserial.h">
+      <Filter>头文件\运动功能</Filter>
+    </ClInclude>
+    <ClInclude Include="movrelate\Wafer_Csocket.h">
+      <Filter>头文件\运动功能</Filter>
+    </ClInclude>
+    <ClInclude Include="movrelate\wafer_json.h">
+      <Filter>头文件\运动功能</Filter>
+    </ClInclude>
+    <ClInclude Include="movrelate\Wafer_Pgsql.h">
+      <Filter>头文件\运动功能</Filter>
+    </ClInclude>
+    <ClInclude Include="movrelate\WaferLogic.h">
+      <Filter>头文件\运动功能</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>源文件\源文档</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件\源文档</Filter>
+    </ClCompile>
+    <ClCompile Include="wafer_final_ming.cpp">
+      <Filter>源文件\源文档</Filter>
+    </ClCompile>
+    <ClCompile Include="wafer_final_mingDoc.cpp">
+      <Filter>源文件\源文档</Filter>
+    </ClCompile>
+    <ClCompile Include="wafer_final_mingView.cpp">
+      <Filter>源文件\源文档</Filter>
+    </ClCompile>
+    <ClCompile Include="InfoFile.cpp">
+      <Filter>源文件\辅助功能</Filter>
+    </ClCompile>
+    <ClCompile Include="Clogindlg.cpp">
+      <Filter>源文件\辅助功能</Filter>
+    </ClCompile>
+    <ClCompile Include="CDispalyView.cpp">
+      <Filter>源文件\辅助功能</Filter>
+    </ClCompile>
+    <ClCompile Include="CSelectView.cpp">
+      <Filter>源文件\辅助功能</Filter>
+    </ClCompile>
+    <ClCompile Include="CSET.cpp">
+      <Filter>源文件\辅助功能</Filter>
+    </ClCompile>
+    <ClCompile Include="CGET.cpp">
+      <Filter>源文件\辅助功能</Filter>
+    </ClCompile>
+    <ClCompile Include="CMOV.cpp">
+      <Filter>源文件\辅助功能</Filter>
+    </ClCompile>
+    <ClCompile Include="movrelate\common.cpp">
+      <Filter>源文件\运动功能</Filter>
+    </ClCompile>
+    <ClCompile Include="movrelate\machinecloadport.cpp">
+      <Filter>源文件\运动功能</Filter>
+    </ClCompile>
+    <ClCompile Include="movrelate\machinecommon.cpp">
+      <Filter>源文件\运动功能</Filter>
+    </ClCompile>
+    <ClCompile Include="movrelate\machinecrobot.cpp">
+      <Filter>源文件\运动功能</Filter>
+    </ClCompile>
+    <ClCompile Include="movrelate\Wafer_Control.cpp">
+      <Filter>源文件\运动功能</Filter>
+    </ClCompile>
+    <ClCompile Include="movrelate\Wafer_Cserial.cpp">
+      <Filter>源文件\运动功能</Filter>
+    </ClCompile>
+    <ClCompile Include="movrelate\Wafer_Csocket.cpp">
+      <Filter>源文件\运动功能</Filter>
+    </ClCompile>
+    <ClCompile Include="movrelate\wafer_json.cpp">
+      <Filter>源文件\运动功能</Filter>
+    </ClCompile>
+    <ClCompile Include="movrelate\Wafer_Pgsql.cpp">
+      <Filter>源文件\运动功能</Filter>
+    </ClCompile>
+    <ClCompile Include="movrelate\WaferLogic.cpp">
+      <Filter>源文件\运动功能</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="waferfinalming.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\waferfinalming.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="crobot_vari.json">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\wafer_final_mingDoc.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\wafer_final_ming.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\now.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\logo.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\logom.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\chilun.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\robot.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\rviz.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

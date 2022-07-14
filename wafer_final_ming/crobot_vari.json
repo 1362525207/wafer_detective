@@ -1,0 +1,18 @@
+{
+   "C01Slot" : [ 1, 1, 0, 1, 0, 1, 1, 1, 0, 0 ],
+   "C02Slot" : [ 0, 0, 0, 0, 0, 1, 1, 1, 0, 0 ],
+   "Dest Cassette stage" : "C01",
+   "Source Cassette stage" : "C02",
+   "alignerAngle" : "00060000",
+   "boardrate" : "115200",
+   "fsm1blade" : 1,
+   "fsm2blade" : 2, //表示状态机的构造代表的blade
+   "isalign" : "1",
+   "istext" : "1",
+   "nowslot" : "03",
+   "serial_port1" : "COM3",
+   "serial_port2" : "COM5",
+   "tcp_ip" : "192.168.23.1",
+   "tcp_port1" : "10110",
+   "tcp_port2" : "10110"
+}
